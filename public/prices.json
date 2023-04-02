@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "name": "Basic",
+      "price": 9.99,
+      "features": [
+        "Access to cardio machines",
+        "Free weights area"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Standard",
+      "price": 19.99,
+      "features": [
+        "Access to cardio machines",
+        "Free weights area",
+        "Group fitness classes"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Premium",
+      "price": 29.99,
+      "features": [
+        "Access to cardio machines",
+        "Free weights area",
+        "Group fitness classes",
+        "Personal training sessions"
+      ]
+    }
+  ]
+  
